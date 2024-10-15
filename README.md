@@ -1,6 +1,6 @@
 # Nadifi Nadir
 
-**Data Science Intern | Founder & Developer at Cloudly**
+**Computer Science Final-Year Engineering Student | AI & Data Science Specialist**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nadifi-blue)](https://www.linkedin.com/in/nadifi/)
 [![GitHub](https://img.shields.io/badge/GitHub-Cozmonn-black)](https://github.com/Cozmonn)
@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate **Data Science Intern** with experience in developing and integrating data quality metrics, automating update/export processes, and ensuring seamless deployment of client data. My goal is to continuously improve processes for optimal performance. Additionally, I am the **Founder & Developer** of Cloudly, where I focus on developing mobile and web applications, especially in areas like healthcare and environmental protection.
+I am a passionate AI and Data Science Engineer with extensive experience in designing and integrating data quality metrics, automating workflows, and optimizing data processes for enhanced performance. As a Data Science Intern, I have developed solutions for seamless data deployment and process automation, ensuring efficiency in complex data environments.
 
 ---
 
@@ -86,7 +86,10 @@ I am a passionate **Data Science Intern** with experience in developing and inte
 ## 💻 Projects
 
 ### **Cloudly | Founder & Developer**
-Developing a platform focusing on healthcare and environmental solutions, utilizing machine learning, cloud technologies, and automation.
+Developing a platform focusing on tech and environmental solutions, utilizing machine learning, cloud technologies, and automation.
+
+### **Canabis Detection**
+Developed a web application using Landsat 7 and 8 (raster images) to identify cannabis in specific regions.
 
 ### **Mobile Application for Skin Cancer Detection**
 Developed an app that uses smartphone cameras for early detection of skin cancer with machine learning integration.

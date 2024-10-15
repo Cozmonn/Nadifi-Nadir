@@ -1,6 +1,4 @@
-# Nadifi Nadir
-
-**Computer Science Final-Year Engineering Student | AI & Data Science Specialist**
+#Computer Science Final-Year Engineering Student | AI & Data Science Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nadifi-blue)](https://www.linkedin.com/in/nadifi/)
 [![GitHub](https://img.shields.io/badge/GitHub-Cozmonn-black)](https://github.com/Cozmonn)

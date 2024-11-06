@@ -67,7 +67,7 @@ I am a passionate AI and Data Science Engineer with extensive experience in desi
 
 ## 🎖 Certifications
 
-- **IBM Data Science Professional Certificate** (*Ongoing*)
+- [**IBM Data Science Professional Certificate**](https://www.coursera.org/account/accomplishments/professional-cert/O10ELHX0SS22)
 
 ---
 
